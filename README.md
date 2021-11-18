@@ -6,4 +6,4 @@ https://www.wykop.pl/cdn/c3201142/comment_EB3miVNnkU13LkU2Z5vE3iFbpEgtgOmv.jpg
 Wykonane:
 | Nazwa | Status | Trudnosc | Testy  |
 | ------|--------|----------|--------|
-| ROT13 | Done   | 0/10     |&#x2713;|
+| ROT13 | Done   |   1/10   |&#x2713;|
